@@ -1,0 +1,18 @@
+*{
+  background:linear-gradient(to right,rgb(157, 170, 226),rgb(150, 250, 188));
+}
+div{
+  margin: 20px 0 0 20px;
+}
+
+h2{
+  color: black;
+  text-decoration:underline;
+  text-decoration-color: blueviolet;
+  font-family: cursive;
+}
+p{
+  font-size: 20px;
+  color: #221111;
+  margin-left: 4rem;
+}
